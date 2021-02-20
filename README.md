@@ -7,16 +7,16 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+{The Olympics provided the Summer Medal winners dataset. The dataset was downloaded from Kaggle, a company which specializes in the data science field. The dataset consists of the following individual values: city, year, sport, discipline, event, athlete, gender, country abbreviation and gender of athlete. The vast mount of individual values will allow us to effectively analyze and model the data to find patterns and to make better predictions. The range of the data collected spans from 1976 to 2008. The main purpose of the dataset is predicting future medal winners. Certain countries may have more medal winners than others, some sports might contain consistent medal winners as well. This data allows future predictions to be made on which country is the most likely to contain the most athletes with medals. It also allows for other predictions to be made regarding certain sport categories as well. The data was collected by humans, all medal winners are recorded by humans.}
 
 ## Describe your dataset in about 150-200 words
 
-{Add your stuff here}
+{We hope to analyze the dataset effectively in order to find trends within Olympic medal winners. Trends could allow us to model the data and make predictions. There may be interesting results that come from the trends that would not be obvious without having the dataset analyzed. Our group consists of athletic oriented individuals, this dataset allows us to understand the intricacies involved with Olympic level sports/athletes. The main question that we aim to explore is "What's a common pattern in gold medal winners?". This question fascinates us as we would like to explore what factors are involved in creating gold winner athletes. Another possible question that could be explored is "Does country of origin play a role in medal winners?" A Dashboard would be a very plausible and engaging task to create. The Dashboard could be useful and help represent trends clearer. It would also allow us to display key information more effectively.}
 
 ## Team Members
 
 - Claire Costello: I'm a second year, Data Sciences major from Calgary, AB!
-- Segundo Parra: one sentence about you!
+- Segundo Parra: Second year computer science major from Bermuda.
 
 ## References
 
