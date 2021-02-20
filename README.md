@@ -1,5 +1,6 @@
 [![Work in Repl.it](https://classroom.github.com/assets/work-in-replit-14baed9a392b3a25080506f3b7b6d57f295ec2978f6f33ec97e36a161684cbe9.svg)](https://classroom.github.com/online_ide?assignment_repo_id=369173&assignment_repo_type=GroupAssignmentRepo)
-# Group 1053 - Olympic medalists 
+
+# Group 1053 - Olympic Medalists 
 
 ## Milestones
 
@@ -11,7 +12,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your dataset in about 150-200 words
 
-{We hope to analyze the dataset effectively in order to find trends within Olympic medal winners. Trends could allow us to model the data and make predictions. There may be interesting results that come from the trends that would not be obvious without having the dataset analyzed. Our group consists of athletic oriented individuals, this dataset allows us to understand the intricacies involved with Olympic level sports/athletes. The main question that we aim to explore is "What's a common pattern in gold medal winners?". This question fascinates us as we would like to explore what factors are involved in creating gold winner athletes. Another possible question that could be explored is "Does country of origin play a role in medal winners?" A Dashboard would be a very plausible and engaging task to create. The Dashboard could be useful and help represent trends clearer. It would also allow us to display key information more effectively.}
+{We hope to analyze the dataset effectively in order to find trends within Olympic medal winners. Trends could allow us to model the data and make speculations for the future. There may be interesting results that come from the trends that would not be obvious without having the dataset analyzed. Our group consists of athletic oriented individuals, this dataset allows us to understand the intricacies involved with Olympic level sports/athletes. The main question that we aim to explore is "What's a common pattern in gold medal winners?". This question fascinates us as we would like to explore what factors are involved in creating gold winner athletes. Another possible question that could be explored is "Does the column 'Country' have any correlation with the column 'Medal'?" A Dashboard would be a very plausible and engaging task to create. The Dashboard could be useful and help represent trends clearer. It would also allow us to display key information more effectively and allow for better speculation.}
 
 ## Team Members
 
@@ -20,4 +21,4 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## References
 
-{Add your stuff here}
+{https://www.kaggle.com/divyansh22/summer-olympics-medals}
