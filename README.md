@@ -16,8 +16,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Team Members
 
-- Claire Costello: I'm a second year, Data Sciences major from Calgary, AB!
-- Segundo Parra: Second year computer science major from Bermuda.
+- **bold text**Claire Costello**bold text**: I'm a second year, Data Sciences major from Calgary, AB!
+- **bold text**Segundo Parra**bold text**: Second year computer science major from Bermuda.
 
 ## References
 
