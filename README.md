@@ -10,7 +10,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ### Summer Medal winners dataset
 {The Olympics provided the Summer Medal winners dataset. The dataset was downloaded from Kaggle, a company which specializes in the data science field. The dataset consists of the following individual values: city, year, sport, discipline, event, athlete, gender, country abbreviation and gender of athlete. The vast mount of individual values will allow us to effectively analyze and model the data to find patterns and to make better predictions. The range of the data collected spans from 1976 to 2008. The main purpose of the dataset is predicting future medal winners. Certain countries may have more medal winners than others, some sports might contain consistent medal winners as well. This data allows future predictions to be made on which country is the most likely to contain the most athletes with medals. It also allows for other predictions to be made regarding certain sport categories as well. The data was collected by humans, all medal winners are recorded by humans.}
 
-!["images/olympic-flag.jpeg"]
+<img src="images/olympic-flag.jpeg">
 
 ## Describe your dataset in about 150-200 words
 
