@@ -14,7 +14,6 @@ def load_and_process(path):
         .reset_index()
         .drop('index', axis=1)
         .replace()
-        .to_csv('../data/processed/data.csv') #Testing to see if the data is cleaned up
     )
-    
+    data_2.to_csv('../data/processed/data.csv') #Testing to see if the data is cleaned up
     return data_2
