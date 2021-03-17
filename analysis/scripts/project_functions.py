@@ -17,3 +17,7 @@ def load_and_process(path):
     )
     data_2.to_csv('../data/processed/data.csv') #Testing to see if the data is cleaned up
     return data_2
+
+def add_medalpts(df):
+    df['Medal_Points'] = df['Medal'].replace({'Gold':'4', 'Silver':'2', 'Bronze':'1'})
+   
