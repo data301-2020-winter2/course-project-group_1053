@@ -19,5 +19,5 @@ def load_and_process(path):
     return data_2
 
 def add_medalpts(df):
-    df['Medal_Points'] = df['Medal'].replace({'Gold':'4', 'Silver':'2', 'Bronze':'1'})
+    df['Medal_Points'] = df['Medal'].replace({'Gold':4, 'Silver':2, 'Bronze':1})
    
