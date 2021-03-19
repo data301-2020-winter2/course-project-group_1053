@@ -18,6 +18,10 @@ def load_and_process(path):
     data_2.to_csv('../data/processed/data.csv') #Testing to see if the data is cleaned up
     return data_2
 
+def rem_columns(df):
+    df = df.copy().drop(['Sport', 'Discipline', 'Event', 'Athlete', 'Gender','Country_Code','Event_gender'], axis=1)
+    return df
+
 def add_medalpts(df):
     df['Medal_Points'] = df['Medal'].replace({'Gold':4, 'Silver':2, 'Bronze':1})
    
