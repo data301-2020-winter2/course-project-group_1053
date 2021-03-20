@@ -19,7 +19,15 @@ def load_and_process(path):
     return data_2
 
 def rem_columns(df):
-    df = df.copy().drop(['Sport', 'Discipline', 'Event', 'Athlete', 'Gender','Country_Code','Event_gender'], axis=1)
+    df = df.copy().drop(['Discipline', 'Event', 'Athlete', 'Gender','Country_Code','Event_gender'], axis=1)
+    return df
+
+def country_medal(df):
+    df = df.groupby(["Country"])["Medal"].count().reset_index(name="Count").sort_values(by='Count',ascending=False).reset_index()
+    return df
+
+def country_medal_year(df):
+    df = df.groupby(["Country","Year"])["Medal"].count().reset_index(name="Count").sort_values(by='Count',ascending=False).reset_index()
     return df
 
 def add_medalpts(df):
